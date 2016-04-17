@@ -1,0 +1,15 @@
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyWebBrowser.exe.config
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyWebBrowser.exe
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyWebBrowser.pdb
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.Properties.Resources.resources
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.csproj.GenerateResource.Cache
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.exe
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.pdb
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyProject.exe
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyServer.exe
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyProject.pdb
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\ProxyServer.pdb
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\obj\Debug\ProxyWebBrowser.webBrowserProxy.resources
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\Misc.exe
+c:\users\work\documents\visual studio 2013\Projects\ProxyProject\ProxyWebBrowser\bin\Debug\Misc.pdb
